@@ -119,7 +119,7 @@ Here are a few examples of how this code gets used to help you get started.
 
 * when somebody runs `jupyter-book create mybook/`, the `create.py` module is used to generate an empty template using the template in `jupyter_book/book_template/`.
 * when somebody runs `jupyter-book build mybook/`, the `build.py` module to loop through your page content files,
-  and uses the `page` module to convert each one into HTML and places it in `mybook/_build`.
+  and uses the `page/` module to convert each one into HTML and places it in `mybook/_build`.
 
 Hopefully this explanation gets you situated and helps you understand how the pieces all fit together.
 If you have any questions, feel free to [open an issue asking for help](https://github.com/jupyter/jupyter-book/issues/new)!
