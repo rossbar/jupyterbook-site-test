@@ -23,7 +23,6 @@
 - url: /guide/01_overview
   not_numbered: true
   expand_sections: true
-  anchor: The-book-building-process
   sections:
   - url: /guide/01-5_tour
   - url: /guide/02_create
@@ -39,6 +38,23 @@
       not_numbered: true
 
   - url: /guide/05_faq
+    sections:
+    - url: /guide/05_faq
+      anchor: How-can-I-update-my-book?
+    - url: /guide/05_faq
+      anchor: Does-the-book-behave-differently-depending-on-the-browser?
+    - url: /guide/05_faq
+      anchor: Why-isn't-my-math-showing-up-properly?
+    - url: /guide/05_faq
+      anchor: How-can-I-include-interactive-Plotly-figures?
+    - url: /guide/05_faq
+      anchor: What-if-I-have-an-issue-or-question?
+    - url: /guide/05_faq
+      anchor: How-should-I-add-cell-tags-to-my-notebooks?
+    - url: /guide/05_faq
+      anchor: Why-doesn't-math-show-properly-when-printing?
+    - url: /guide/05_faq
+      anchor: What-is-this-Gemfile.lock-file-or-why-am-I-getting-Jekyll-dependency-warnings?
   - url: /guide/06_advanced
 
 - url: /features/features
