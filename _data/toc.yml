@@ -38,7 +38,8 @@
       not_numbered: true
 
   - url: /guide/05_faq
-    sections:
+    expand_subsections: true
+    subsections:
     - url: /guide/05_faq
       anchor: How-can-I-update-my-book?
     - url: /guide/05_faq
