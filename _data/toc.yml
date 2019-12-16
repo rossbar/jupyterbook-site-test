@@ -41,20 +41,28 @@
     expand_subsections: true
     subsections:
     - url: /guide/05_faq
+      title: How can I update my book?
       anchor: How-can-I-update-my-book?
     - url: /guide/05_faq
+      title: Does the book behave differently depending on the browser?
       anchor: Does-the-book-behave-differently-depending-on-the-browser?
     - url: /guide/05_faq
+      title: Why isn't my math showing up properly?
       anchor: Why-isn't-my-math-showing-up-properly?
     - url: /guide/05_faq
+      title: How can I include interactive Plotly figures?
       anchor: How-can-I-include-interactive-Plotly-figures?
     - url: /guide/05_faq
+      title: What if I have an issue or question?
       anchor: What-if-I-have-an-issue-or-question?
     - url: /guide/05_faq
+      title: How should I add cell tags to my notebooks?
       anchor: How-should-I-add-cell-tags-to-my-notebooks?
     - url: /guide/05_faq
+      title: Why doesn't math show properly when printing?
       anchor: Why-doesn't-math-show-properly-when-printing?
     - url: /guide/05_faq
+      title: What is this Gemfile.lock file or why am I getting Jekyll dependency warnings?
       anchor: What-is-this-Gemfile.lock-file-or-why-am-I-getting-Jekyll-dependency-warnings?
   - url: /guide/06_advanced
 
